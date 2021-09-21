@@ -1362,7 +1362,7 @@
         <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
       <Color Name="OverviewMarginVisible">
-        <Background Type="CT_RAW" Source="FF000000" />
+        <Background Type="CT_RAW" Source="FF434C5E" />
         <Foreground Type="CT_RAW" Source="FF444954" />
       </Color>
       <Color Name="OverviewMarginCaret">
